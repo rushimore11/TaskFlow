@@ -174,4 +174,4 @@ Released under the [MIT License](LICENSE).
 
 ## Author
 
-**Pooja Sri** · [GitHub](https://github.com/madakapoojasri)
+**Rushikesh More** · [GitHub](https://github.com/rushimore11)
